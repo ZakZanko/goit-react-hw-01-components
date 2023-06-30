@@ -12,7 +12,7 @@
   width: inherit;
   padding: 0;
 }
-.friends_item {
+.friends__item {
   display: flex;
   align-items: center;
   box-shadow: 0 0 10px #c6cccced;
